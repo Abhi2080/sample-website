@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.list{
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    height: 500px;
+    background: url(./images/mitsubishi_mi_tech_concept_2019_4k_2-3840x2160.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.nav{
+    padding-top: 2rem;
+    padding-left: 20rem;
+    padding-right: 0px;
+    padding-bottom: 2rem;
+    font-size: 2rem;
+    background-color: rgba(173, 194, 100, 0.8);
+    
+}
+.li{
+    color: orangered;
+    padding: 1px 10px ;
+    display: inline-block;
+    
+}
+#one{
+    color: crimson;
+}
+.heading{
+    color: wheat;
+    font-size: 2.5rem;
+    padding-top: 110px;
+    padding-bottom: 110px;
+    text-align: center;
+    border-color: crimson;
+    border-style: solid;
+    border-width: 5px;
+}
